@@ -1,0 +1,5 @@
+abc 
+vmb
+*.log
+/dir/
+static/dir
